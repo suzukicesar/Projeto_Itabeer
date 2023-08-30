@@ -1,0 +1,36 @@
+c:\users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe.config
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.pdb
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csprojResolveAssemblyReference.cache
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormCadastro.resources
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormLogin.resources
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.Properties.Resources.resources
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csproj.GenerateResource.Cache
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.exe
+C:\Users\cesar\documents\visual studio 2015\Projects\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.pdb
+E:\trabLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe.config
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.exe
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.pdb
+E:\trabLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe
+E:\trabLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.pdb
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csprojResolveAssemblyReference.cache
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormCadastro.resources
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormLogin.resources
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.Properties.Resources.resources
+E:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csproj.GenerateResource.Cache
+D:\trabLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe.config
+D:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.exe
+D:\trabLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.pdb
+D:\EntregaLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe.config
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.exe
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.pdb
+D:\EntregaLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.exe
+D:\EntregaLP\ProjetoLP\ProjetoLP\bin\Debug\ProjetoLP.pdb
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csprojResolveAssemblyReference.cache
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormCadastro.resources
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.FormLogin.resources
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.Properties.Resources.resources
+D:\EntregaLP\ProjetoLP\ProjetoLP\obj\Debug\ProjetoLP.csproj.GenerateResource.Cache
+C:\Users\cesar\Documents\estudos\C#\Projeto_Itabeer\ProjetoLP\bin\Debug\ProjetoLP.exe.config
+C:\Users\cesar\Documents\estudos\C#\Projeto_Itabeer\ProjetoLP\obj\Debug\ProjetoLP.exe
+C:\Users\cesar\Documents\estudos\C#\Projeto_Itabeer\ProjetoLP\obj\Debug\ProjetoLP.pdb
